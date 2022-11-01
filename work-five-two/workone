@@ -11,7 +11,7 @@
 				background-color: pink;
 				animation: my1 8s;
 			}
-			@keyframes 1{
+			@keyframes my1{
 				0%{background-color: red; left: 0px; top: 0px;}
 				25%{background-color: yellow; left: 200px; top: 0px;}
 				50%{background-color: green; left: 200px; top: 200px;}
@@ -21,8 +21,9 @@
 		</style>
 	</head>
 	<body>
-		<div></div>
+		<div>
+		</div>
 	
 
-</body>
+	</body>
 </html>
